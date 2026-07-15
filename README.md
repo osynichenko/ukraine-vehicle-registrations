@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-This is my second portfolio case study (after the [Cyclistic bike-share capstone](../)). It analyzes **14,497,205 vehicle registration operations** from the open data registry of the Ministry of Internal Affairs of Ukraine, spanning **2019–2025** — a period that includes the COVID-19 pandemic and the full-scale russian invasion.
+This is my second portfolio case study (after the [Cyclistic bike-share capstone](https://github.com/osynichenko/Cyclistic_Bike_Share_Analysis)). It analyzes **14,497,205 vehicle registration operations** from the open data registry of the Ministry of Internal Affairs of Ukraine, spanning **2019–2025** — a period that includes the COVID-19 pandemic and the full-scale russian invasion.
 
 **Central question:**
 > *What do Ukrainians drive — and how did two crises (pandemic and war) change the automotive market?*
