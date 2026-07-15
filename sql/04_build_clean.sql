@@ -32,3 +32,8 @@ SELECT COUNT(*) AS total, COUNT(*) FILTER (WHERE reg_date IS NULL) AS bad_dates 
 
 SELECT source_year, EXTRACT(YEAR FROM reg_date) AS reg_year, COUNT(*)
 FROM tz_clean GROUP BY source_year, reg_year ORDER BY source_year, reg_year;
+
+
+
+
+
