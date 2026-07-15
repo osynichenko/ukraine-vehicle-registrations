@@ -142,3 +142,6 @@ FROM tz_clean c JOIN oper_directory d ON d.oper_code = c.oper_code
 WHERE d.category = 'made_in_ukraine' AND c.brand = 'SKODA'
 GROUP BY month ORDER BY month;
 
+
+
+
