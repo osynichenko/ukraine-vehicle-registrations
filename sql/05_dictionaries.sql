@@ -119,6 +119,7 @@ SELECT source_year, COUNT(*) FROM tz_clean WHERE oper_code = 213 GROUP BY source
 
 
 
+
 -- Final category structure (first analytical table of the project)
 
 SELECT category, COUNT(*) AS codes, SUM(ops) AS total_ops,
